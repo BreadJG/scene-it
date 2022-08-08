@@ -1,11 +1,17 @@
 body {
-	background-color: #B2E9FD;
+	background-color: #828e92;
 }
 
 .header h2 {
-	color: #DC4247;
+	color: #dcd442;
+	font-weight: bolder;
+	font-family: 'Gill Sans';
 }
 
 .header p {
 	color: #50524F;
+}
+
+.card {
+	width: 300px;
 }
